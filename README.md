@@ -1,5 +1,5 @@
-cd ghost0x02
-pkg install python
-pkg install python3
-git clone https://github.com/readlydex0x02/ghost0x02
-python3 ghost0x02
+cd ghost0x02<br>
+pkg install python <br>
+pkg install python3<br>
+git clone https://github.com/readlydex0x02/ghost0x02<br>
+python3 ghost0x02<br>
